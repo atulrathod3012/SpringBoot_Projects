@@ -91,8 +91,6 @@ curl -X POST -H "Content-Type: application/json" -d '{"content": "Why did the ch
 - `model/` — JPA entities
 
 
-```
-
 <p align="center">
    <b>Made with ❤️ for fun and learning!</b>
 </p>
